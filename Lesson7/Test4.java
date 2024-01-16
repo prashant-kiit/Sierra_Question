@@ -26,6 +26,7 @@ class ToDos {
         this.day = d;
     }
 
+    // for uniqueness
     public boolean equals(Object o) {
         return ((ToDos) o).day == this.day;
     }

@@ -2,14 +2,35 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Test16",
+      "request": "launch",
+      "mainClass": "Lesson7.Test16",
+      "projectName": "Sierra_Question_d559bafa"
+    },
+    {
+      "type": "java",
+      "name": "MapEQ",
+      "request": "launch",
+      "mainClass": "Lesson7.MapEQ",
+      "projectName": "Sierra_Question_d559bafa"
+    },
+    {
+      "type": "java",
+      "name": "Test15",
+      "request": "launch",
+      "mainClass": "Lesson7.Test15",
+      "projectName": "Sierra_Question_d559bafa"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Sierra_Question/Lesson6",
-      "program": "d:/Sierra_Question/Lesson6/build/Debug/outDebug",
+      "cwd": "d:/Sierra_Question/InnerClasses/C++",
+      "program": "d:/Sierra_Question/InnerClasses/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
